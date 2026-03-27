@@ -12,6 +12,7 @@ A front-end plant store showcasing a responsive design and user-friendly interfa
 - Footer with essential links
 
 **Demonstration:**
+
 **HOME**  
 ![HOME](screenshots/home.png)
 **STORE**  
